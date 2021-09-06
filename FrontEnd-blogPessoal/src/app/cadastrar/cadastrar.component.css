@@ -1,0 +1,13 @@
+#img-bg{
+  background-image: url(https://pbs.twimg.com/media/D2OBbbkWkAYt2JV.jpg);
+
+  height: 695px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  #h1{
+    color: #182153;
+  }
